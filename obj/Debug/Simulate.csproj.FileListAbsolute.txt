@@ -1,0 +1,9 @@
+c:\users\aimash\documents\visual studio 2015\Projects\Simulate\Simulate\bin\Debug\Simulate.exe.config
+c:\users\aimash\documents\visual studio 2015\Projects\Simulate\Simulate\bin\Debug\Simulate.exe
+c:\users\aimash\documents\visual studio 2015\Projects\Simulate\Simulate\bin\Debug\Simulate.pdb
+c:\users\aimash\documents\visual studio 2015\Projects\Simulate\Simulate\obj\Debug\Simulate.csprojResolveAssemblyReference.cache
+c:\users\aimash\documents\visual studio 2015\Projects\Simulate\Simulate\obj\Debug\Simulate.Form1.resources
+c:\users\aimash\documents\visual studio 2015\Projects\Simulate\Simulate\obj\Debug\Simulate.Properties.Resources.resources
+c:\users\aimash\documents\visual studio 2015\Projects\Simulate\Simulate\obj\Debug\Simulate.csproj.GenerateResource.Cache
+c:\users\aimash\documents\visual studio 2015\Projects\Simulate\Simulate\obj\Debug\Simulate.exe
+c:\users\aimash\documents\visual studio 2015\Projects\Simulate\Simulate\obj\Debug\Simulate.pdb
